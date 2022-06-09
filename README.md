@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MichaelMutisya
-- 👀 I’m interested in Building Operating systems
+- 👋 Hi, I’m Michael Mutisya
+- 👀 I’m interested in Web Development, Mobile App Development and Game Development
 - 🌱 I’m currently learning C++ programming language and a bit of android application development
 - 💞️ I’m looking to collaborate on projects that deals on building systems
 - 📫 You can reach me via my email navusmike@gmail.com
